@@ -28,8 +28,9 @@ Javascript, HTML/CSS, Posenet, jQuery, json
 Video Link - https://drive.google.com/open?id=1gRruKLv2cD4TFTSd8WsfbibK5iw02MW1
 
 #### Usage
- Step 1 - Go to folder arom
- Step 2 - Run index.html file
+ Step 1 - Download the whole folder
+ Step 2 - Go to folder HaxploreIITBHU -> arom
+ Step 3 - Run index.html file
 
 
 #### Tracks used
